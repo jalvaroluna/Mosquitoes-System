@@ -23,6 +23,6 @@ En el siguiente repositorio https://www.kaggle.com/potamitis/wingbeats/version/1
   
 En el siguiente repositorio https://github.com/ikiskin/ECMLDeepAudio/tree/master/data/Culex%20Quinquefasciatus/audio se cuenta con;
   57 muestras de Culex Quinquefasciatus
-
+ 
 
   
